@@ -1,0 +1,18 @@
+{
+    "name": "imobiliaria",
+    "description": "Projeto para Imobiliaria para vaga de DEV PHP",
+    "authors:": [
+        {
+            "name": "Anderson Silva Tome",
+            "email": "anderson.tome@outlook.com.br",
+            "fone": "19 981150857"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sts\\":"app/sts",
+            "Core\\": "core" 
+        }
+    }
+}
